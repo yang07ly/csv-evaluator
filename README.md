@@ -23,7 +23,7 @@ npm install
 
 ## Usage
 
-1. Place a `input.csv` that complies with the convention stated in `CSV Evaluation Task.pdf`, under folder `data`. 
+1. Place a `input.csv` that complies with the convention stated in `CSV Evaluation Task.pdf`, under folder `data`. Refer to `data/sample_input.csv` for an example.
 2. Run `npm start` in the project directory.
 3. Retrieve the output from `output.csv` under folder `data`.
 
