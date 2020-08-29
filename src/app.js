@@ -61,7 +61,7 @@ const validateHeader = data => {
 
 const validateBody = data => {
   if (data === undefined || data === null || data.length === 0) {
-    throw Error('Given file is empty.')
+    throw Error('Empty row.')
   }
   const exps = data.split(/\t|,/)
   if (exps.length !== 11) {
