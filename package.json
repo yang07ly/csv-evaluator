@@ -1,0 +1,18 @@
+{
+  "name": "csv-evaluator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "firstline": "^2.0.2",
+    "mathjs": "^7.2.0",
+    "mocha": "^8.1.2"
+  }
+}

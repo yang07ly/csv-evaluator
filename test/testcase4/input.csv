@@ -1,0 +1,10 @@
+﻿CSV Evaluator
+test/testcase1/input.csv processed successfully.
+Saved to test/testcase1/output.csv
+    ✓ 1. Success story - Common.
+test/testcase2/input.csv processed successfully.
+Saved to test/testcase2/output.csv
+    ✓ 2. Success story - Multiplication and division by 0.
+test/testcase3/input.csv processed successfully.
+Saved to test/testcase3/output.csv
+    ✓ 3. Success story - Edge case, only header row.
