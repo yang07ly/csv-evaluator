@@ -31,5 +31,5 @@ npm install
 ## Testing
 
 ```
-npm start
+npm test
 ```
